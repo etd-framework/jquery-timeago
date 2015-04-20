@@ -1,0 +1,15 @@
+{
+  "name": "etdsolutions/jquery-timeago",
+  "description": "Shim repository for Timeago jQuery plugin",
+  "homepage": "https://github.com/rmm5t/jquery-timeago",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ryan McGeary",
+      "website": "http://ryan.mcgeary.org"
+    }
+  ],
+  "require": {
+  	"etdsolutions/jquery": "~1.0"
+  }
+}
