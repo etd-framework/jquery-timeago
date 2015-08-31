@@ -1,4 +1,4 @@
-// English shortened
+// Portuguese Brasil shortened
 jQuery.timeago.settings.strings = {
   prefixAgo: null,
   prefixFromNow: null,
@@ -11,10 +11,10 @@ jQuery.timeago.settings.strings = {
   hours: "%dh",
   day: "1d",
   days: "%dd",
-  month: "1mo",
-  months: "%dmo",
-  year: "1yr",
-  years: "%dyr",
+  month: "1M",
+  months: "%dM",
+  year: "1a",
+  years: "%da",
   wordSeparator: " ",
   numbers: []
 };
